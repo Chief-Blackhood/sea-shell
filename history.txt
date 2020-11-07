@@ -1,0 +1,13 @@
+ls |
+quit
+ls |
+ls | cat
+ls |   <
+sort < input.txt > output.txt &
+quit
+ls
+mkdir a
+cd a
+cd ..
+rm -r a
+ls
